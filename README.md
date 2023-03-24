@@ -1,14 +1,11 @@
 <h1 align="center">
   <img src="https://github.com/Sujith-Maharaj/Sujith-Maharaj/blob/main/name.svg" alt="Sujith Maharaj" />
 </h1>
-
-<div>
-<h2 align="left"> Hey! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </h2>
-  <h4 align="left"> I'm Sujith, The Full Stack Web Developer from TamilNadu(INDIA). :computer: </h4>
-</div>
+<h2> Hey! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </h2>
+<h3> I'm Sujith, The Full Stack Web Developer from TamilNadu(INDIA). :computer: </h3>
 <br/>
 <br/>
-<h2>Technologies I Use ⚡ </h2>
+<h4>Technologies I Use ⚡ </h4>
 <div>
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  &nbsp;
@@ -31,5 +28,5 @@
 </div>
 
 <br/>
-<h2>Connect with me here... </h2>
+<h4>Connect with me here... </h4>
 
