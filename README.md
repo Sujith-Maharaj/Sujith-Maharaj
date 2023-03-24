@@ -8,8 +8,6 @@
 </div>
 <br/>
 <br/>
-<img src="" alt="Some Image"/>
-<br/>
 <h2>Technologies I Use ⚡ </h2>
 <div>
 
